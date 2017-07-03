@@ -2,7 +2,7 @@ title: 米迪
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: Grimxiaojun
+avatarTitle: Midi
 # 头像里面的描述
 avatarDesc: 爱生活，爱网络
 url: "http://grimxiaojun.github.io"
@@ -18,9 +18,6 @@ social:
     # twitter: 
     mail: 1076735024@qq.com
 
-ga:
-    id: UA-96239281-2
-    host: auto
 
 
 
